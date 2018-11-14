@@ -1,0 +1,73 @@
+# Logs and databases #
+###################
+logs
+*.log
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.sql
+*.sqlite
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+# various files #
+######################
+pids
+*.pid
+*.seed
+*.pid.lock
+coverage
+.nyc_output
+.grunt
+bower_components
+.lock-wscript
+build/Release
+node_modules/
+jspm_packages/
+typings/
+.npm
+.eslintcache
+.node_repl_history
+.yarn-integrity
+.env
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+###################
+# IDE files #
+.classpath
+.project
+.settings
+.idea
+.metadata
+*.iml
+*.ipr
+###################
+# Documentation files #
+*.jsdoc
+
+###################
+# Custom files #
+/config/
+/test/
+/*.*
+/docs*/
+!.gitignore
