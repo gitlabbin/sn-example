@@ -62,12 +62,8 @@ Thumbs.db
 *.ipr
 ###################
 # Documentation files #
-*.jsdoc
 
 ###################
 # Custom files #
 /config/
-/test/
-/*.*
 /docs*/
-!.gitignore
